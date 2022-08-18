@@ -4,4 +4,7 @@ The purpose of Online E-commerce System is to automate the existing manual syste
 ![Screenshot (387)](https://user-images.githubusercontent.com/111478972/185293097-d3fd5791-f507-4248-9d5d-d5a48533a03b.png)
 # User can Register and create/login an  account.
 ![Screenshot (386)](https://user-images.githubusercontent.com/111478972/185305730-abaa4315-9a24-4396-ad42-1fa1122ea47f.png)
+# Admin can add different categories and products.
+![Screenshot (388)](https://user-images.githubusercontent.com/111478972/185363619-4a001d0f-7918-43e2-a3a0-cb04b3f8b50e.png)
+
 
