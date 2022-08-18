@@ -10,4 +10,10 @@ The purpose of Online E-commerce System is to automate the existing manual syste
 ![Screenshot (381)](https://user-images.githubusercontent.com/111478972/185364271-de7ad00c-b983-40bd-b7dc-843300691803.png)
 # Product prices automatically calculated after adding the  product into cart.
 ![Screenshot (390)](https://user-images.githubusercontent.com/111478972/185364585-3bbe1090-16ff-4ccb-afaa-8101d65c539a.png)
+# User can also remove products from the cart.
+![Screenshot (389)](https://user-images.githubusercontent.com/111478972/185365175-35026f1d-7c27-4744-a92a-a22eb8d008dd.png)
+# This project is flexible enough so that future changes can be easily done based on the future upcoming requirements.
+  ![Screenshot (379)](https://user-images.githubusercontent.com/111478972/185365781-af6aac6e-8a7a-4964-be3a-0b7036583d73.png)
+# sign-up page
+![Screenshot (380)](https://user-images.githubusercontent.com/111478972/185366066-e567c51e-a4ee-4458-9910-6d20d0ca9f2d.png)
 
